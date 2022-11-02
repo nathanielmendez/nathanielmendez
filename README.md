@@ -8,6 +8,6 @@
 * 🌱 I’m currently studying software engineering
 * 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanielmendez1)
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I like going on long walks.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanielmendez_icons=true&theme=radical)
+* 💭 Pronouns: He/Him
+* ⚡ Fun fact: I like going on long walks.  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanielmendez&show_icons=true&theme=dark)
