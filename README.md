@@ -12,4 +12,5 @@
 * 💭 Pronouns: He/Him
 * ⚡ Fun fact: I like going on long walks.  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanielmendez&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielmendez&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielmendez&layout=compact)]
